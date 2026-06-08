@@ -1,4 +1,4 @@
-
+![[Bobbler Conveyor Belt - by Alec Adams.png]]
 Bobblers are small robotic helpers with a plants growing out of their head atop the [[Walking Marketplace]]. These marvels of engineering were constructed by the [[Gold Elementals|Gold Elemental]] [[Auric]] and are empowered by the magic of the [[Mother Tree]]. Ever since he figured out a way to automatically construct them they are also sold inside the [[Build-A-Bobbler]] workshop for 50 GP and can also be upgraded there.
 # Basic Bobbler
 Small Construct (Bobbler), True Neutral

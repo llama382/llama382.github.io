@@ -8,9 +8,10 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 | Rare                 | 2                            |
 | Very Rare            | 1                            |
 | Legendary / Artifact | 0                            |
+
 # Upgrades
 ### Amphibious
-- Gold Cost. 255GP
+- Gold Cost. 255 GP
 - Material Requirement. Kraken Gland
 - Can it stack? No
 - Armor. You can breathe underwater and swim at the same speed as your walking speed.
@@ -18,7 +19,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Once per short rest, you may cast Water Breathing at third level without expending a spell slot.
 - Wondrous Item. You can breathe underwater and swim at the same speed as your walking speed.
 ### Ancient
-- Gold Cost. 400GP
+- Gold Cost. 400 GP
 - Material Requirement. An Ancient Dragon’s scale
 - Can it stack? No
 - Armor. Gain advantage on saving throws versus magical effects.
@@ -26,7 +27,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Enemies have disadvantage at making WIS saving throws versus your spells.
 - Wondrous Item. You gain advantage on WIS Saving throws
 ### Blighted
-- Gold Cost. 270GP
+- Gold Cost. 270 GP
 - Material Requirement. A bone from an Undead knight
 - Can it stack? Yes
 - Armor. You gain +1 on CON saving throws.
@@ -38,7 +39,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Wondrous Item. You gain +1 on CON saving throws
 	- Stack: Increases by +1.
 ### Blinking
-- Gold Cost. 310GP
+- Gold Cost. 310 GP
 - Material Requirement. A preserved snowflake
 - Can it stack? No
 - Armor. You may use your Bonus Action to immediately teleport up to 30ft to a position you can see. You may use this ability 3 times per long rest.
@@ -46,7 +47,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Once per long rest, you may cast Blink at third level without expending a spell slot.
 - Wondrous Item. You may use your Bonus Action to immediately teleport up to 30ft to a point you can see. You may use this ability 3 times per long rest.
 ### Charming
-- Gold Cost. 300GP
+- Gold Cost. 300 GP
 - Material Requirement. A Rose from the [[Elphame|Feywild]]
 - Can it stack? No
 - Armor. When hit by a melee attack, as a reaction, you may add your CHA bonus to your AC for that attack.
@@ -54,7 +55,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. When someone is charmed by you, you get an additional +5 for Charisma based-checks against them.
 - Wondrous Item. You gain advantage on CHA saving throws
 ### Divine
-- Gold Cost. 180GP
+- Gold Cost. 180 GP
 - Material Requirement. A Celestial’s feather
 - Can it stack? Yes
 - Armor. You may cast Cure Wounds at 1st level once per short rest without expending a spell slot.
@@ -77,7 +78,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Wondrous Item. You gain +1 to your AC.
 	- Stack: Increases by +1.
 ### Flaming
-- Gold Cost. 165GP
+- Gold Cost. 165 GP
 - Material Requirement. Heart of a Fire Elemental
 - Can it stack? Yes
 - Armor. Once per long rest, you may activate this as a bonus action. Any enemy that ends their turn within 5 ft of you takes 1d6 fire damage.
@@ -89,7 +90,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Wondrous Item. Once per short rest, you may cast Hellish Rebuke at first level without expending a spell slot.
 	- Stack: Increases the level spell by 1 (without expending a spell slot).
 ### Fluid
-- Gold Cost. 410GP
+- Gold Cost. 410 GP
 - Material Requirement. A Water Elemental’s heart
 - Can it stack? No
 - Armor. You may use your Bonus Action to disengage
@@ -97,7 +98,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Once per short rest, if you successfully cast a spell on an enemy within 5ft of you, you may teleport 30ft to a position you can see.
 - Wondrous Item. You gain a climbing speed of 30ft and the ability to walk on water.
 ### Furious
-- Gold Cost. 220GP
+- Gold Cost. 220 GP
 - Material Requirement. A vial of Hill Giant blood
 - Can it stack? No
 - Armor. When you are hit by an enemy attack, use your reaction to do 1d6 plus your proficiency mod Force Damage.
@@ -105,7 +106,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Once per round, you may reroll a Damage or Healing spell roll on a result of 1.
 - Wondrous Item. Once per round, use your reaction to reduce non-magical damage by half.
 ### Immovable
-- Gold Cost. 220GP
+- Gold Cost. 220 GP
 - Material Requirement. An Earth Elemental’s Heart
 - Can it stack? No
 - Armor. You gain advantage on CON saving throws.
@@ -121,7 +122,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Once per short rest, you may cast Featherfall without expending a spell slot.
 - Wondrous Item. Once per short rest, you may cast Featherfall without expending a spell slot.
 ### Mastermind
-- Gold Cost. 390GP
+- Gold Cost. 390 GP
 - Material Requirement. A Devil’s Brain
 - Can it stack? No
 - Armor. Removes any disadvantages for Stealth checks.
@@ -129,7 +130,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Enemies have disadvantage at making INT saving throws versus your spells.
 - Wondrous Item. You gain advantage on INT Saving throws.
 ### Rapid
-- Gold Cost. 200GP
+- Gold Cost. 200 GP
 - Material Requirement. A feather from a Pegasus
 - Can it stack? Yes
 - Armor. You gain an additional 10ft to your Walking speed.
@@ -141,7 +142,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Wondrous Item. Once per long rest, you may cast Haste at third level without expending a spell slot.
 	- Stack: Increases the number of targets by 1.
 ### Resilient
-- Gold Cost. 320GP
+- Gold Cost. 320 GP
 - Material Requirement. The stones of a 1000-year ruin
 - Can it stack? No
 - Armor. Choose a damage type. This armor gains resistance to that type.
@@ -149,7 +150,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Choose a damage type. You gain advantage on saving throws against that damage type
 - Wondrous Item. Choose a damage type. You gain advantage on saving throws against that damage type
 ### Shining
-- Gold Cost. 350GP
+- Gold Cost. 350 GP
 - Material Requirement. A lock of hair from a Gold Elemental
 - Can it stack? No
 - Armor. Whenever you succeed on the Persuasion check, you may have the target charmed by you for the next hour.
@@ -157,7 +158,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. Enemies have disadvantage at making CHA saving throws versus your spells.
 - Wondrous Item. You gain advantage on CHA Saving throws.
 ### Slaying
-- Gold Cost. 320GP
+- Gold Cost. 320 GP
 - Material Requirement. A bone from the
 - Chosen creature type
 - Can it stack? Yes
@@ -170,7 +171,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Wondrous Item. Choose a creature type other than humanoid. You gain advantage on any checks related to that creature, such as researching, tracking, and recalling information. In addition, once per short rest, you can automatically sense the location of any creatures of the selected type within 1 mile.
 	- Stack: Pick an additional creature type.
 ### Sturdy
-- Gold Cost. 270GP
+- Gold Cost. 270 GP
 - Material Requirement. A Storm Giant’s heart
 - Can it stack? No
 - Armor. You gain advantage on STR saving throws.
@@ -178,7 +179,7 @@ Item Modifications can be performed by the blacksmith [[Olvir]] atop the [[Walki
 - Implement. You may cast Mage Armor once per short rest without expending a spell slot.
 - Wondrous Item. You may cast Mage Armor once per short rest without expending a spell slot.
 ### Venomous
-- Gold Cost. 270GP
+- Gold Cost. 270 GP
 - Material Requirement. A Basilisk’s tooth
 - Can it stack? No
 - Armor. You gain resistance to poison damage and are immune to the poison effect.
