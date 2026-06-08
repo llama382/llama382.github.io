@@ -9,6 +9,7 @@ Small Construct (Bobbler), True Neutral
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
 | 12 (+1) | 12 (+1) | 10 (+0) | 8 (-1) | 8 (-1) | 8 (-1) |
+
 **Senses** Darkvision 60 ft., Passive Perception 9
 **Skills** Acrobatics +4, Arcana +1, Nature +1
 **Languages** Common
